@@ -7,7 +7,7 @@
 Generates a password based off of user prompts.
 
 ## Usage
-Go to the website at 
+Go to the website at https://owenlang05.github.io/Passoword-Generator/
 
 Click the generate password button and answer the prompts for the password length and what characters to includen in the password.
 
